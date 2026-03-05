@@ -11,4 +11,4 @@ While the grammar is small, much larger grammars can be built using the same des
  
  ## Tools
  - Regular expressions
- - __PyFoma__, PyFoma, an open-source Python module for constructing weighted and unweighted finite-state transducers and automata from regular expressions, string rewriting rules, right-linear grammars, or low-level state/transition manipulation.
+ - __PyFoma__, an open-source Python module for constructing weighted and unweighted finite-state transducers and automata from regular expressions, string rewriting rules, right-linear grammars, or low-level state/transition manipulation.
